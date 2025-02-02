@@ -11,13 +11,13 @@ This data analysis project focuses on uncovering valuable insights from the comp
 ✅ Generated actionable insights to optimize business decisions
 
 # ⚙️ Technologies Used
-Advanced Excel
-SQL (MySQL, SQL Server)
-Tableau & Power BI
-Statistics for Data Analysis
+[Advanced Excel]
+[SQL (MySQL, SQL Server)]
+[Tableau & Power BI]
+[Statistics for Data Analysis]
 
 # 📊 Tableau Dashboard
-🔗 View Tableau Dashboard (Replace with the actual Tableau Public link)
+🔗 View Tableau Dashboard [https://public.tableau.com/authoring/Salesdatasets/Dashboard-RevenueAnalysis#1]
 
 # 📌 Problem Statements
 The Sales Director wants to evaluate the company’s performance across different Indian states and offer strategic discounts based on insights.
@@ -52,13 +52,14 @@ The Sales Director wants to evaluate the company’s performance across differen
 
 # 🔧 Setup Process
 Step 1: Download Data
-📂 Download db_dump.sql or db_dump.xlsx.
+📂 Download [db_dump.sql] or [db_dump.xlsx].
 
-# Step 2: Import Data
+Step 2: Import Data
 📥 Import the dataset into MySQL and perform ETL (Extract, Transform, Load) if needed.
 
 Step 3: Install Tableau
-### 📊 Download Tableau Public (Free) or Tableau Desktop (14-day trial).
+
+📊 Download Tableau Public (Free) or Tableau Desktop (14-day trial).
 
 Step 4: Connect Tableau to Database
 🔗 Link Tableau to MySQL or Excel database.
@@ -70,10 +71,10 @@ Step 5: Save Project
 Basic Queries
 🔹 Show all customer records:
 
-<ins>SELECT * FROM customers;<ins>
+'''SELECT * FROM customers;'''
 🔹 Count total customers:
 
-SELECT COUNT(*) FROM customers;
+'''SELECT COUNT(*) FROM customers;'''
 🔹 Transactions for Chennai market (Mark001):
 
 SELECT * FROM transactions WHERE market_code='Mark001';
