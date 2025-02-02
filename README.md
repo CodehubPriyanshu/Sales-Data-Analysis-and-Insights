@@ -70,7 +70,7 @@ Step 5: Save Project
 Basic Queries
 🔹 Show all customer records:
 
-SELECT * FROM customers;
+<ins>SELECT * FROM customers;<ins>
 🔹 Count total customers:
 
 SELECT COUNT(*) FROM customers;
