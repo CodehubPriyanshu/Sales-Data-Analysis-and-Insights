@@ -51,6 +51,7 @@ The Sales Director wants to evaluate the company’s performance across differen
 ⏳ 20% reduction in manual data gathering time for sales analysts.
 
 # 🔧 Setup Process
+
 Step 1: Download Data
 📂 Download [db_dump.sql] or [db_dump.xlsx].
 
@@ -58,7 +59,6 @@ Step 2: Import Data
 📥 Import the dataset into MySQL and perform ETL (Extract, Transform, Load) if needed.
 
 Step 3: Install Tableau
-
 📊 Download Tableau Public (Free) or Tableau Desktop (14-day trial).
 
 Step 4: Connect Tableau to Database
